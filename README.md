@@ -1,20 +1,45 @@
-Heyo so this is a quick patch for https://github.com/FinalTwist/Ultima-Adventures/tree/main 3.2 version. All it does is add elves and gargoyles buttons.
+# Ultima Adventures 3.2 — Elves & Gargoyles Patch
 
-The Elves work by default after adding the patch.
-<<<<<<< HEAD
-The Gargoyles do NOT work you must add them yourself to ultima adventures.
+Heyo! This is a small patch for [Ultima Adventures 3.2](https://github.com/FinalTwist/Ultima-Adventures/tree/main) that adds **Elf and Gargoyle buttons to character creation**.
 
-Do you already have a server and client? Good news you can just patch it with this.
+## What's Included?
 
-What to replace on client side: Either replace the Data Files folder for your client OR replace Gumpart.mul & Gumpidx.mul up to you.
+- **Elves:** Button for Elves
+- **Gargoyles:** Button for gargoyles, but you'll need to make major changes to your server to have them work (they just become human).
+- **Client files:** Includes the modified Gumpart & Gumpidx needed for the new character creation buttons.
 
-=======
-The Gargoyles do NOT work you must add them yourself to ultima adventures. I'm too lazy honestly.
+## Client Installation
 
-Do you already have a server and client? Good news you can just patch it with this.
-What to replace on client side: Either replace the Data Files folder for your client OR replace Gumpart.mul & Gumpidx.mul up to you.
->>>>>>> 5182849 (First commit)
-What to replace on server side: Find CharacterCreation.cs and go to line 132. Make it newchar.Race = args.Race;
+If you already have the server and client, good news, you can keep all your saves and just modify 3 files.
 
-Either download this client and use it or steal the two .muls doesn't really matter to me. Anyways enjoy elves and enjoy gargoyles if you feel like adding them.
-This version only has tazuo windows feel free to go download tazuo linux or any other client.
+You have two options:
+
+**Option 1 — Replace the Data Files folder**
+- Replace your client's existing `Data Files` folder with the one included in this patch.
+
+**Option 2 — Replace only the required files**
+- Replace `Gumpart.mul` and `Gumpidx.mul` with the versions included in this patch.
+
+Choose whatever.
+
+## Server Setup — Enabling Races
+
+To enable other races you do need to make a small change to the server code.
+
+1. Open `CharacterCreation.cs` in your Ultima Adventures server folder.
+2. Find the character creation code around line 132.
+3. Change the race assignment to:
+
+   ```csharp
+   newchar.Race = args.Race;
+   ```
+
+4. Rebuild if linux (no idea if required I did anyways) and restart your server.
+
+## Never played the client yet?
+
+You can download and use the client included in this repository, but if you have a client rip your macros. I only included Tazuo because I hate razor.
+
+## 📝 Additional Notes
+- No I probably won't fix gargoyles, this was just a 2 second patch I figured out.
+- The Elves appear to function like humans (no night vision) so don't expect them to have the passives they should have (magic bonus and night vision)
