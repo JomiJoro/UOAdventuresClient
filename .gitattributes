@@ -1,0 +1,7 @@
+Data[[:space:]]Files/*.mul filter=lfs diff=lfs merge=lfs -text
+*.mul filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.dll !text !filter !merge !diff
