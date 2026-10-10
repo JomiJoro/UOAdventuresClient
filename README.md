@@ -42,5 +42,5 @@ You can download and use the client included in this repository, but if you have
 
 ## 📝 Additional Notes
 - No I probably won't fix gargoyles, this was just a 2 second patch I figured out.
-- The Elves appear to function like humans (no night vision) so don't expect them to have the passives they should have (magic bonus and night vision)
-- So basically Elves are untested and more just cosmetic compared to human, but this is an rpg so of course I want it still.
+- The Elves appear to function like humans (no night vision) other passives are untested.
+- So basically Elves might just be cosmetic, but this is an rpg so of course I want it still.
