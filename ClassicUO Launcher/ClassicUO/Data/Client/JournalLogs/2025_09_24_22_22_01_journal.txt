@@ -1,0 +1,59 @@
+[09/24/2025 22:22:01]  System: You have 0 of max 50 in your mailbox.
+[09/24/2025 22:22:02]  System: You can type '[helpadmin' to learn the commands for this server.
+[09/24/2025 22:22:02]  System: Auto-Defend is Enabled for your account.
+[09/24/2025 22:22:02]  newadmin:  newadmin 
+[09/24/2025 22:22:02]  Belen:  Belen the waiter
+[09/24/2025 22:22:02]  Minerva:  Minerva the banker
+[09/24/2025 22:22:02]  Sharri:  Sharri the banker
+[09/24/2025 22:22:02]  Lady Luck:  Lady Luck the Lottery Vendor
+[09/24/2025 22:22:02]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:22:02]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:22:02]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:22:02]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:22:02]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:22:02]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:22:02]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:22:02]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:22:02]  Mary:  Mary the innkeeper
+[09/24/2025 22:22:03]  Alim:  Alim the innkeeper
+[09/24/2025 22:22:18]  System: The mobile has been deleted.
+[09/24/2025 22:22:24]  Lady Luck: I have no need of this!
+[09/24/2025 22:22:25]  Mary:  Mary the innkeeper
+[09/24/2025 22:22:40]  System: The mobile has been deleted.
+[09/24/2025 22:22:43]  System: The mobile has been deleted.
+[09/24/2025 22:22:45]  System: This command does not work on that.
+[09/24/2025 22:22:46]  Glenno:  Glenno the Chicken Farmer
+[09/24/2025 22:22:47]  Mary:  Mary the innkeeper
+[09/24/2025 22:22:47]  System: The mobile has been deleted.
+[09/24/2025 22:22:50]  System: The mobile has been deleted.
+[09/24/2025 22:22:52]  System: The mobile has been deleted.
+[09/24/2025 22:22:55]  System: The mobile has been deleted.
+[09/24/2025 22:22:58]  System: The mobile has been deleted.
+[09/24/2025 22:22:59]  Alim:  Alim the innkeeper
+[09/24/2025 22:23:09]  Alim:  Alim the innkeeper
+[09/24/2025 22:23:10]  System: The mobile has been deleted.
+[09/24/2025 22:23:13]  System: The item has been deleted.
+[09/24/2025 22:23:14]  System: Where do you wish to place this object? <ESC> to cancel.
+[09/24/2025 22:23:15]  System: 1 object generated in 0.0 seconds.
+[09/24/2025 22:23:15]  Lucky Evelyn:  Lucky Evelyn the lottery ticket vendor
+[09/24/2025 22:23:20]  Mary:  Mary the innkeeper
+[09/24/2025 22:23:39]  System: No type with that name was found.
+[09/24/2025 22:23:41]  Kamilah:  Kamilah the squire representative
+[09/24/2025 22:23:42]  System: Where do you wish to place this object? <ESC> to cancel.
+[09/24/2025 22:23:42]  System: 1 object generated in 0.0 seconds.
+[09/24/2025 22:23:44]  Mary:  Mary the innkeeper
+[09/24/2025 22:23:52]  System: Your skill in Focus has increased by 0.1.  It is now 0.2.
+[09/24/2025 22:24:02]  Alim:  Alim the innkeeper
+[09/24/2025 22:24:02]  System: Your skill in Focus has increased by 0.1.  It is now 0.3.
+[09/24/2025 22:24:06]  Mary:  Mary the innkeeper
+[09/24/2025 22:24:17]  Dannik:  Dannik 
+[09/24/2025 22:24:17]  a dragon:  a dragon 
+[09/24/2025 22:24:17]  Kamilah:  Kamilah the squire representative
+[09/24/2025 22:24:17]  an alien:  an alien 
+[09/24/2025 22:24:17]  Luke:  Luke the squire representative
+[09/24/2025 22:24:17]  Rod:  Rod 
+[09/24/2025 22:24:17]  Helki:  Helki 
+[09/24/2025 22:24:17]  Carrie:  Carrie 
+[09/24/2025 22:24:18]  a pack horse:  a pack horse 
+[09/24/2025 22:24:21]  a pack horse:  a pack horse 
+[09/24/2025 22:24:21]  System: That is not accessible.

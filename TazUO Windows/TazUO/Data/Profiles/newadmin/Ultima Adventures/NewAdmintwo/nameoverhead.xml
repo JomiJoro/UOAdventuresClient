@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<nameoverhead>
+	<nameoverheadoption name="All" deleteable="False" key="0" alt="False" ctrl="False" shift="False" optionflagscode="4194303" search="" negativesearch="" />
+	<nameoverheadoption name="Mobiles only" deleteable="False" key="0" alt="False" ctrl="False" shift="False" optionflagscode="3840" search="" negativesearch="" />
+	<nameoverheadoption name="Items only" deleteable="False" key="0" alt="False" ctrl="False" shift="False" optionflagscode="3145759" search="" negativesearch="" />
+	<nameoverheadoption name="Mobiles &amp; Corpses only" deleteable="False" key="0" alt="False" ctrl="False" shift="False" optionflagscode="3936" search="" negativesearch="" />
+</nameoverhead>

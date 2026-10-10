@@ -1,0 +1,195 @@
+[08/17/2026 13:24:55]  System: You have 0 of max 50 in your mailbox.
+[08/17/2026 13:24:55]  System: You can type '[helpadmin' to learn the commands for this server.
+[08/17/2026 13:24:55]  System: Auto-Defend is Enabled for your account.
+[08/17/2026 13:24:55]  newadmin:  newadmin 
+[08/17/2026 13:24:55]  Larry:  Larry the Imposing
+[08/17/2026 13:24:55]  Aaron:  Aaron of the Haunted Heath
+[08/17/2026 13:24:55]  Sutherland:  Sutherland 
+[08/17/2026 13:24:55]  Kane:  Kane 
+[08/17/2026 13:24:55]  Odon:  Odon 
+[08/17/2026 13:24:55]  Penthea:  Penthea 
+[08/17/2026 13:24:55]  Rae:  Rae the Gruff
+[08/17/2026 13:24:55]  Clive:  Clive the Batrachian
+[08/17/2026 13:24:55]  Phoenix:  Phoenix of the Silver Shield
+[08/17/2026 13:24:55]  a cat:  a cat 
+[08/17/2026 13:24:55]  Pots and consumables:  Pots and consumables 
+[08/17/2026 13:24:55]  Delana:  Delana the Ominous
+[08/17/2026 13:24:55]  Tooka:  Tooka the Antiquarian
+[08/17/2026 13:24:55]  Jibril:  Jibril the Weak
+[08/17/2026 13:24:55]  Kalle:  Kalle 
+[08/17/2026 13:24:55]  Nevin: Lord Nevin [Sosarian Guard]
+[08/17/2026 13:24:55]  Whitaker:  Whitaker 
+[08/17/2026 13:24:55]  Satinka: Lady Satinka [Sosarian Guard]
+[08/17/2026 13:24:55]  Nathaniel:  Nathaniel the Barbarian
+[08/17/2026 13:24:55]  Noah:  Noah of the Coast
+[08/17/2026 13:24:55]  Bo:  Bo the town crier
+[08/17/2026 13:24:55]  Aiken:  Aiken the Brave
+[08/17/2026 13:24:56]  Nathaniel: Kamaria vanished in the tomb.
+[08/17/2026 13:24:58]  Shobi:  Shobi 
+[08/17/2026 13:24:59]  Kalle: Greetings adventurer! Ask me about tribute items, dungeon entrances, reagents, guild halls, powerscrolls, Lost Arts, or other secrets and I'll guide you.
+[08/17/2026 13:24:59]  Bo: All hail and hear my words! Veryance the Elder Beastmaster lost 0 gold on their investments!!
+[08/17/2026 13:24:59]  Sharon: Lady Sharon [Sosarian Guard]
+[08/17/2026 13:25:00]  Bowman:  Bowman 
+[08/17/2026 13:25:00]  Aimery:  Aimery the Great
+[08/17/2026 13:25:00]  Ambrose:  Ambrose the Fair
+[08/17/2026 13:25:01]  Kalle: *smiles*
+[08/17/2026 13:25:01]  Whitaker:  Whitaker 
+[08/17/2026 13:25:02]  System: Target Multi Tele Location.
+[08/17/2026 13:25:02]  Thaddeus:  Thaddeus of the City
+[08/17/2026 13:25:02]  Larry:  Larry the Imposing
+[08/17/2026 13:25:02]  Aaron:  Aaron of the Haunted Heath
+[08/17/2026 13:25:02]  Penthea:  Penthea 
+[08/17/2026 13:25:02]  Rae:  Rae the Gruff
+[08/17/2026 13:25:02]  Kane:  Kane 
+[08/17/2026 13:25:02]  Basimah: Lady Basimah [Sosarian Guard]
+[08/17/2026 13:25:02]  a dog:  a dog 
+[08/17/2026 13:25:02]  Jal:  Jal the fighter
+[08/17/2026 13:25:02]  Klog:  Klog the soldier
+[08/17/2026 13:25:02]  Osmond: Lord Osmond [Sosarian Guard]
+[08/17/2026 13:25:02]  Todd:  Todd the Battler
+[08/17/2026 13:25:02]  Dinah:  Dinah the Unexpected
+[08/17/2026 13:25:02]  Malcolm:  Malcolm the Ninth
+[08/17/2026 13:25:02]  Yvette:  Yvette the Imposing
+[08/17/2026 13:25:02]  Terry:  Terry 
+[08/17/2026 13:25:02]  Ranger:  Ranger the Dandy
+[08/17/2026 13:25:02]  Marianna:  Marianna the Weird
+[08/17/2026 13:25:02]  Johann:  Johann the Cowled
+[08/17/2026 13:25:02]  Rhoda:  Rhoda the Rugose
+[08/17/2026 13:25:03]  Sutherland:  Sutherland 
+[08/17/2026 13:25:03]  Whitaker:  Whitaker 
+[08/17/2026 13:25:03]  a cat:  a cat 
+[08/17/2026 13:25:03]  Pots and consumables:  Pots and consumables 
+[08/17/2026 13:25:03]  Delana:  Delana the Ominous
+[08/17/2026 13:25:03]  Tooka:  Tooka the Antiquarian
+[08/17/2026 13:25:03]  Jibril:  Jibril the Weak
+[08/17/2026 13:25:03]  Kalle:  Kalle 
+[08/17/2026 13:25:03]  Nevin: Lord Nevin [Sosarian Guard]
+[08/17/2026 13:25:03]  Satinka: Lady Satinka [Sosarian Guard]
+[08/17/2026 13:25:03]  Nathaniel:  Nathaniel the Barbarian
+[08/17/2026 13:25:03]  Noah:  Noah of the Coast
+[08/17/2026 13:25:04]  Basimah: Lady Basimah [Sosarian Guard]
+[08/17/2026 13:25:04]  Klog:  Klog the soldier
+[08/17/2026 13:25:04]  Ayiana:  Ayiana the Ragged
+[08/17/2026 13:25:04]  Todd:  Todd the Battler
+[08/17/2026 13:25:04]  Dinah:  Dinah the Unexpected
+[08/17/2026 13:25:04]  Malcolm:  Malcolm the Ninth
+[08/17/2026 13:25:04]  Osmond: Lord Osmond [Sosarian Guard]
+[08/17/2026 13:25:04]  Ranger:  Ranger the Dandy
+[08/17/2026 13:25:04]  Marianna:  Marianna the Weird
+[08/17/2026 13:25:04]  Johann:  Johann the Cowled
+[08/17/2026 13:25:04]  Rhoda:  Rhoda the Rugose
+[08/17/2026 13:25:04]  Marianna:  Marianna the Wanderer
+[08/17/2026 13:25:04]  a dog:  a dog 
+[08/17/2026 13:25:04]  Jal:  Jal the fighter
+[08/17/2026 13:25:04]  Berton:  Berton the Scarred
+[08/17/2026 13:25:04]  Walker:  Walker the Cryptic
+[08/17/2026 13:25:04]  a cow:  a cow 
+[08/17/2026 13:25:04]  Irena:  Irena the butcher
+[08/17/2026 13:25:05]  Larry:  Larry the Imposing
+[08/17/2026 13:25:05]  Aaron:  Aaron of the Haunted Heath
+[08/17/2026 13:25:05]  Sutherland:  Sutherland 
+[08/17/2026 13:25:05]  Odon:  Odon 
+[08/17/2026 13:25:05]  Whitaker:  Whitaker 
+[08/17/2026 13:25:05]  Rae:  Rae the Gruff
+[08/17/2026 13:25:05]  Clive:  Clive the Batrachian
+[08/17/2026 13:25:05]  Phoenix:  Phoenix of the Silver Shield
+[08/17/2026 13:25:05]  Kane:  Kane 
+[08/17/2026 13:25:05]  Delana:  Delana the Ominous
+[08/17/2026 13:25:05]  a cat:  a cat 
+[08/17/2026 13:25:05]  Pots and consumables:  Pots and consumables 
+[08/17/2026 13:25:05]  Tooka:  Tooka the Antiquarian
+[08/17/2026 13:25:05]  Jibril:  Jibril the Weak
+[08/17/2026 13:25:05]  Kalle:  Kalle 
+[08/17/2026 13:25:05]  Nevin: Lord Nevin [Sosarian Guard]
+[08/17/2026 13:25:05]  Satinka: Lady Satinka [Sosarian Guard]
+[08/17/2026 13:25:05]  Nathaniel:  Nathaniel the Barbarian
+[08/17/2026 13:25:05]  Noah:  Noah of the Coast
+[08/17/2026 13:25:05]  Bo:  Bo the town crier
+[08/17/2026 13:25:05]  Shobi:  Shobi 
+[08/17/2026 13:25:05]  Sharon: Lady Sharon [Sosarian Guard]
+[08/17/2026 13:25:06]  Larry:  Larry the Imposing
+[08/17/2026 13:25:06]  Sutherland:  Sutherland 
+[08/17/2026 13:25:06]  Thaddeus:  Thaddeus of the City
+[08/17/2026 13:25:06]  Aaron:  Aaron of the Haunted Heath
+[08/17/2026 13:25:06]  Penthea:  Penthea 
+[08/17/2026 13:25:06]  Rae:  Rae the Gruff
+[08/17/2026 13:25:06]  Dempster:  Dempster of the Eerie Eyes
+[08/17/2026 13:25:06]  Malcolm:  Malcolm the Ninth
+[08/17/2026 13:25:06]  Yvette:  Yvette the Imposing
+[08/17/2026 13:25:06]  Terry:  Terry 
+[08/17/2026 13:25:06]  Osmond: Lord Osmond [Sosarian Guard]
+[08/17/2026 13:25:06]  Ranger:  Ranger the Dandy
+[08/17/2026 13:25:06]  Marianna:  Marianna the Weird
+[08/17/2026 13:25:06]  Johann:  Johann the Cowled
+[08/17/2026 13:25:06]  Rhoda:  Rhoda the Rugose
+[08/17/2026 13:25:06]  Ainsley:  Ainsley the Uncanny
+[08/17/2026 13:25:06]  Alphonso:  Alphonso the tinker
+[08/17/2026 13:25:06]  Ilias:  Ilias from Afar
+[08/17/2026 13:25:06]  a mouse:  a mouse 
+[08/17/2026 13:25:08]  Jesse:  Jesse the Gambler
+[08/17/2026 13:25:08]  Cyrus:  Cyrus the tinker guildmaster
+[08/17/2026 13:25:09]  System: You have left the City of Britain.
+[08/17/2026 13:25:10]  System: You have entered door.
+[08/17/2026 13:25:10]  Luke:  Luke the squire representative
+[08/17/2026 13:25:10]  a pack horse:  a pack horse 
+[08/17/2026 13:25:10]  Luke:  Luke the squire representative
+[08/17/2026 13:25:10]  a pack horse:  a pack horse 
+[08/17/2026 13:25:22]  System: You have entered the City of Britain.
+[08/17/2026 13:25:22]  System: You have left door.
+[08/17/2026 13:25:22]  Dempster: *cough*
+[08/17/2026 13:25:22]  Marianna:  Marianna the Weird
+[08/17/2026 13:25:22]  Ainsley:  Ainsley the Uncanny
+[08/17/2026 13:25:22]  Alphonso:  Alphonso the tinker
+[08/17/2026 13:25:22]  Jesse:  Jesse the Gambler
+[08/17/2026 13:25:22]  Cyrus:  Cyrus the tinker guildmaster
+[08/17/2026 13:25:22]  Dempster:  Dempster of the Eerie Eyes
+[08/17/2026 13:25:22]  Ilias:  Ilias from Afar
+[08/17/2026 13:25:22]  a mouse:  a mouse 
+[08/17/2026 13:25:24]  Marianna:  Marianna the Weird
+[08/17/2026 13:25:24]  Johann:  Johann the Cowled
+[08/17/2026 13:25:24]  Ranger:  Ranger the Dandy
+[08/17/2026 13:25:24]  Rhoda:  Rhoda the Rugose
+[08/17/2026 13:25:25]  Thaddeus:  Thaddeus of the City
+[08/17/2026 13:25:25]  a dog:  a dog 
+[08/17/2026 13:25:26]  Penthea:  Penthea 
+[08/17/2026 13:25:26]  Rae:  Rae the Gruff
+[08/17/2026 13:25:26]  a dog:  a dog 
+[08/17/2026 13:25:26]  Terry:  Terry 
+[08/17/2026 13:25:26]  Malcolm:  Malcolm the Ninth
+[08/17/2026 13:25:26]  Clive:  Clive the Batrachian
+[08/17/2026 13:25:27]  Osmond: Lord Osmond [Sosarian Guard]
+[08/17/2026 13:25:27]  Yvette:  Yvette the Imposing
+[08/17/2026 13:25:27]  Delana:  Delana the Ominous
+[08/17/2026 13:25:27]  Nathaniel:  Nathaniel the Barbarian
+[08/17/2026 13:25:27]  Noah:  Noah of the Coast
+[08/17/2026 13:25:27]  Ilias: Hur Bet In Beh
+[08/17/2026 13:25:27]  Ilias: Rel Tym Por
+[08/17/2026 13:25:28]  Phoenix:  Phoenix of the Silver Shield
+[08/17/2026 13:25:28]  Satinka: Lady Satinka [Sosarian Guard]
+[08/17/2026 13:25:28]  Pots and consumables:  Pots and consumables 
+[08/17/2026 13:25:28]  Tooka:  Tooka the Antiquarian
+[08/17/2026 13:25:28]  Jibril:  Jibril the Weak
+[08/17/2026 13:25:28]  Sutherland:  Sutherland 
+[08/17/2026 13:25:28]  Larry:  Larry the Imposing
+[08/17/2026 13:25:28]  Kane:  Kane 
+[08/17/2026 13:25:29]  Phoenix: Alcina tells of Sygnetix the Adept Swordsman slaying a jaguar.
+[08/17/2026 13:25:29]  Nevin: Lord Nevin [Sosarian Guard]
+[08/17/2026 13:25:29]  Aaron:  Aaron of the Haunted Heath
+[08/17/2026 13:25:30]  Kalle:  Kalle 
+[08/17/2026 13:25:39]  Marianna: When did you go to Pirate Cave?
+[08/17/2026 13:25:39]  Ranger: No!
+[08/17/2026 13:25:41]  Aaron: Where did I hear that there is someone that touched a crystal ball in Mangar's tower and vanished?
+[08/17/2026 13:25:41]  Whitaker:  Whitaker 
+[08/17/2026 13:25:43]  Dempster:  Dempster of the Eerie Eyes
+[08/17/2026 13:25:43]  Marianna:  Marianna the Weird
+[08/17/2026 13:25:43]  Rhoda:  Rhoda the Rugose
+[08/17/2026 13:25:44]  Ainsley:  Ainsley the Uncanny
+[08/17/2026 13:25:44]  Ilias:  Ilias from Afar
+[08/17/2026 13:25:44]  Aaron:  Aaron of the Haunted Heath
+[08/17/2026 13:25:47]  Osmond: Lord Osmond [Sosarian Guard]
+[08/17/2026 13:25:48]  Osmond: Lord Osmond [Sosarian Guard]
+[08/17/2026 13:25:48]  Tooka: You found that in Dungeon Deceit?
+[08/17/2026 13:25:49]  a dog:  a dog 
+[08/17/2026 13:25:55]  Thaddeus: There is a bounty of  3,000 gold for Braden the Hunter.
+[08/17/2026 13:25:55]  System: The world is saving, please wait.
+[08/17/2026 13:25:56]  System: World save complete. The entire process took 0.8 seconds.

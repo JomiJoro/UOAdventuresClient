@@ -1,0 +1,17 @@
+{
+  "enabled": false,
+  "overlays": {
+    "enabled": false,
+    "intensity": 1,
+    "max_concurrent": 4,
+    "profiles": [],
+    "rules": [],
+    "built_in_rule_states": []
+  },
+  "shake": {
+    "enabled": false,
+    "intensity": 1
+  },
+  "overlays_active": false,
+  "shake_active": false
+}

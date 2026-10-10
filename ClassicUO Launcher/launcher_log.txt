@@ -1,0 +1,555 @@
+﻿13:28:12 |  TRACE  | 
+================= ClassicUO Launcher Log =================
+-OS: windows
+-description: Microsoft Windows 10.0.26200
+-arch: X64
+-processArch: X64
+-args: "C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUOLauncher.exe"
+
+13:28:12 |  TRACE  | setup FNA env vars
+13:28:12 |  TRACE  | starting to load settings
+13:28:12 |  TRACE  | getting special folder path
+13:28:12 |  TRACE  | appdata path: C:\Users\123\AppData\Roaming
+13:28:12 |  TRACE  | settings path: C:\Users\123\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+13:28:12 |  TRACE  | loading settings in: C:\Users\123\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+13:28:12 |  TRACE  | done
+13:28:12 |  TRACE  | setup FNA logger functions
+13:28:12 |  TRACE  | creating the engine
+13:28:12 |  TRACE  | SDL backend creation...
+13:28:12 |  TRACE  | SDL backend created.
+13:28:12 |  TRACE  | running the engine!
+13:28:13 |  TRACE  | FNA3D Driver: D3D11
+13:28:13 |  TRACE  | D3D11 Adapter: AMD Radeon RX 9070 XT
+13:28:13 |  TRACE  | ImGui renderer creation...
+13:28:13 |  TRACE  | ImGui adding custom font
+13:28:13 |  TRACE  | ImGui adding VarelaRound-Regular.ttf
+13:28:13 |  TRACE  | ImGui adding icons
+13:28:13 |  TRACE  | ImGui building font atlas
+13:28:13 |  TRACE  | fonts correctly built
+13:28:13 |  TRACE  | ImGui setting style
+13:28:13 |  TRACE  | discovering plugins...
+13:28:13 |  TRACE  | pattern plugin search: *.dll
+13:28:13 |  TRACE  | pattern plugin search: *.exe
+13:28:13 |  TRACE  | done
+13:28:13 |  TRACE  | downloading manifest...
+13:28:13 |  TRACE  | check launcher patch available
+13:28:13 |  TRACE  | downloading manifest...
+13:28:13 |  TRACE  | loading manifest xml
+13:28:13 |  TRACE  | manifest loaded
+13:28:13 |  TRACE  | check if update is needed
+13:28:13 |  TRACE  | diff hash for file: ClassicUO.Assets.pdb
+13:28:13 |  TRACE  | diff hash for file: ClassicUO.exe
+13:28:13 |  TRACE  | diff hash for file: ClassicUO.exe.config
+13:28:13 |  TRACE  | diff hash for file: ClassicUO.IO.pdb
+13:28:13 |  TRACE  | diff hash for file: ClassicUO.pdb
+13:28:13 |  TRACE  | diff hash for file: ClassicUO.Renderer.pdb
+13:28:13 |  TRACE  | diff hash for file: ClassicUO.Utility.pdb
+13:28:13 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.dll
+13:28:13 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.pdb
+13:28:13 |  TRACE  | diff hash for file: cuoapi.dll
+13:28:13 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FAudio.dll
+13:28:13 |  TRACE  | diff hash for file: FNA.dll.config
+13:28:13 |  TRACE  | diff hash for file: FNA.pdb
+13:28:13 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA3D.dll
+13:28:13 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\libtheorafile.dll
+13:28:13 |  TRACE  | diff hash for file: MP3Sharp.pdb
+13:28:13 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL3.dll
+13:28:13 |  TRACE  | loading manifest xml
+13:28:13 |  TRACE  | manifest loaded
+13:28:13 |  TRACE  | check launcher path: C:\Ultima-Adventures\Client\ClassicUO Launcher
+13:28:13 |  TRACE  | check if update is needed
+13:28:13 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\zlib.dll
+13:28:13 |  TRACE  | update needed
+13:28:13 |  TRACE  | diff hash for file: ClassicUOLauncher.exe
+13:28:13 |  TRACE  | update needed
+13:28:13 |  TRACE  | adding preset: UO: Felucca
+13:28:13 |  TRACE  | adding preset: UOAlive
+13:28:13 |  TRACE  | adding preset: Utopia
+13:28:13 |  TRACE  | adding preset: Heritage
+13:28:13 |  TRACE  | adding preset: Elemental
+13:28:13 |  TRACE  | adding preset: LegenD
+13:28:13 |  TRACE  | adding preset: Millenia
+13:28:13 |  TRACE  | adding preset: Eclipse
+13:28:17 |  TRACE  | saving settings in: C:\Users\123\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+13:28:17 |  TRACE  | done
+13:28:17 |  TRACE  | saving settings in: C:\Users\123\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+13:28:17 |  TRACE  | done
+13:28:17 |  TRACE  | closing...
+settings in: C:\Users\Devin\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+08:34:07 |  TRACE  | done
+08:37:03 |  TRACE  | downloading manifest...
+08:37:03 |  TRACE  | check launcher patch available
+08:37:03 |  TRACE  | downloading manifest...
+08:37:03 |  TRACE  | loading manifest xml
+08:37:03 |  TRACE  | manifest loaded
+08:37:03 |  TRACE  | check if update is needed
+08:37:03 |  TRACE  | diff hash for file: ClassicUO.Assets.pdb
+08:37:03 |  TRACE  | loading manifest xml
+08:37:03 |  TRACE  | manifest loaded
+08:37:03 |  TRACE  | diff hash for file: ClassicUO.exe
+08:37:03 |  TRACE  | check launcher path: C:\Ultima-Adventures\Client\ClassicUO Launcher
+08:37:03 |  TRACE  | check if update is needed
+08:37:03 |  TRACE  | diff hash for file: ClassicUO.exe.config
+08:37:03 |  TRACE  | diff hash for file: ClassicUO.IO.pdb
+08:37:03 |  TRACE  | diff hash for file: ClassicUO.pdb
+08:37:03 |  TRACE  | diff hash for file: ClassicUO.Renderer.pdb
+08:37:03 |  TRACE  | diff hash for file: ClassicUO.Utility.pdb
+08:37:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.dll
+08:37:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.pdb
+08:37:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FAudio.dll
+08:37:03 |  TRACE  | diff hash for file: FNA.dll.config
+08:37:03 |  TRACE  | diff hash for file: FNA.pdb
+08:37:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA3D.dll
+08:37:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\libtheorafile.dll
+08:37:03 |  TRACE  | diff hash for file: MP3Sharp.pdb
+08:37:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL2.dll
+08:37:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\zlib.dll
+08:37:03 |  TRACE  | update needed
+08:37:03 |  TRACE  | no update needed
+08:42:03 |  TRACE  | downloading manifest...
+08:42:03 |  TRACE  | check launcher patch available
+08:42:03 |  TRACE  | downloading manifest...
+08:42:03 |  TRACE  | loading manifest xml
+08:42:03 |  TRACE  | manifest loaded
+08:42:03 |  TRACE  | check if update is needed
+08:42:03 |  TRACE  | diff hash for file: ClassicUO.Assets.pdb
+08:42:03 |  TRACE  | loading manifest xml
+08:42:03 |  TRACE  | manifest loaded
+08:42:03 |  TRACE  | check launcher path: C:\Ultima-Adventures\Client\ClassicUO Launcher
+08:42:03 |  TRACE  | check if update is needed
+08:42:03 |  TRACE  | diff hash for file: ClassicUO.exe
+08:42:03 |  TRACE  | diff hash for file: ClassicUO.exe.config
+08:42:03 |  TRACE  | diff hash for file: ClassicUO.IO.pdb
+08:42:03 |  TRACE  | diff hash for file: ClassicUO.pdb
+08:42:03 |  TRACE  | diff hash for file: ClassicUO.Renderer.pdb
+08:42:03 |  TRACE  | diff hash for file: ClassicUO.Utility.pdb
+08:42:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.dll
+08:42:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.pdb
+08:42:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FAudio.dll
+08:42:03 |  TRACE  | diff hash for file: FNA.dll.config
+08:42:03 |  TRACE  | diff hash for file: FNA.pdb
+08:42:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA3D.dll
+08:42:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\libtheorafile.dll
+08:42:03 |  TRACE  | diff hash for file: MP3Sharp.pdb
+08:42:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL2.dll
+08:42:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\zlib.dll
+08:42:03 |  TRACE  | update needed
+08:42:03 |  TRACE  | no update needed
+08:47:03 |  TRACE  | downloading manifest...
+08:47:03 |  TRACE  | check launcher patch available
+08:47:03 |  TRACE  | downloading manifest...
+08:47:03 |  TRACE  | loading manifest xml
+08:47:03 |  TRACE  | manifest loaded
+08:47:03 |  TRACE  | check if update is needed
+08:47:03 |  TRACE  | diff hash for file: ClassicUO.Assets.pdb
+08:47:03 |  TRACE  | diff hash for file: ClassicUO.exe
+08:47:03 |  TRACE  | diff hash for file: ClassicUO.exe.config
+08:47:03 |  TRACE  | diff hash for file: ClassicUO.IO.pdb
+08:47:03 |  TRACE  | diff hash for file: ClassicUO.pdb
+08:47:03 |  TRACE  | diff hash for file: ClassicUO.Renderer.pdb
+08:47:03 |  TRACE  | diff hash for file: ClassicUO.Utility.pdb
+08:47:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.dll
+08:47:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.pdb
+08:47:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FAudio.dll
+08:47:03 |  TRACE  | diff hash for file: FNA.dll.config
+08:47:03 |  TRACE  | diff hash for file: FNA.pdb
+08:47:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA3D.dll
+08:47:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\libtheorafile.dll
+08:47:03 |  TRACE  | diff hash for file: MP3Sharp.pdb
+08:47:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL2.dll
+08:47:03 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\zlib.dll
+08:47:03 |  TRACE  | update needed
+08:47:03 |  TRACE  | loading manifest xml
+08:47:03 |  TRACE  | manifest loaded
+08:47:03 |  TRACE  | check launcher path: C:\Ultima-Adventures\Client\ClassicUO Launcher
+08:47:03 |  TRACE  | check if update is needed
+08:47:03 |  TRACE  | no update needed
+08:48:03 |  TRACE  | saving settings in: C:\Users\Devin\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+08:48:03 |  TRACE  | done
+08:48:03 |  TRACE  | saving settings in: C:\Users\Devin\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+08:48:03 |  TRACE  | done
+08:48:03 |  TRACE  | closing...
+dventures\Client\ClassicUO Launcher\ClassicUO\osx/libtheorafile.dylib
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\osx/libvulkan.1.dylib
+07:51:15 |  TRACE  | delete file --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL2.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Buffers.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Configuration.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Core.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Data.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Drawing.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.IO.Compression.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.IO.Compression.FileSystem.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Memory.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Numerics.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Numerics.Vectors.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Runtime.CompilerServices.Unsafe.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Runtime.Serialization.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Security.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Text.Encodings.Web.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Text.Json.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Threading.Tasks.Extensions.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.ValueTuple.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Windows.Forms.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Xml.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Xml.Linq.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\vulkan/icd.d/MoltenVK_icd.json
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/FAudio.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/FNA3D.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/libtheorafile.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/SDL2.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/vcruntime140.dll
+07:51:15 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/zlib.dll
+07:51:15 |  TRACE  | update needed
+07:51:15 |  TRACE  | searching for cuo modules
+07:51:15 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\Accessibility.dll
+07:51:15 |  TRACE  | sending GET file request
+07:51:15 |  TRACE  | Status code from response: OK
+07:51:15 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO
+07:51:15 |  TRACE  | sending GET file request
+07:51:15 |  TRACE  | Status code from response: OK
+07:51:15 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Assets.dll
+07:51:15 |  TRACE  | sending GET file request
+07:51:16 |  TRACE  | Status code from response: OK
+07:51:16 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Assets.dll.config
+07:51:16 |  TRACE  | sending GET file request
+07:51:16 |  TRACE  | Status code from response: OK
+07:51:16 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Assets.pdb
+07:51:16 |  TRACE  | sending GET file request
+07:51:16 |  TRACE  | Status code from response: OK
+07:51:16 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.bin.osx
+07:51:16 |  TRACE  | sending GET file request
+07:51:16 |  TRACE  | Status code from response: OK
+07:51:17 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.bin.x86_64
+07:51:17 |  TRACE  | sending GET file request
+07:51:17 |  TRACE  | Status code from response: NotFound
+07:51:17 |  TRACE  | error on file ClassicUO.bin.x86_64
+07:51:17 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.bin.x86_64.debug
+07:51:17 |  TRACE  | sending GET file request
+07:51:17 |  TRACE  | Status code from response: OK
+07:51:19 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.exe
+07:51:19 |  TRACE  | sending GET file request
+07:51:19 |  TRACE  | Status code from response: OK
+07:51:19 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.exe.config
+07:51:19 |  TRACE  | sending GET file request
+07:51:20 |  TRACE  | Status code from response: OK
+07:51:20 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.IO.dll
+07:51:20 |  TRACE  | sending GET file request
+07:51:20 |  TRACE  | Status code from response: OK
+07:51:20 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.IO.dll.config
+07:51:20 |  TRACE  | sending GET file request
+07:51:20 |  TRACE  | Status code from response: OK
+07:51:20 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.IO.pdb
+07:51:20 |  TRACE  | sending GET file request
+07:51:20 |  TRACE  | Status code from response: OK
+07:51:20 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.pdb
+07:51:20 |  TRACE  | sending GET file request
+07:51:20 |  TRACE  | Status code from response: OK
+07:51:20 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Renderer.dll
+07:51:20 |  TRACE  | sending GET file request
+07:51:21 |  TRACE  | Status code from response: OK
+07:51:21 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Renderer.dll.config
+07:51:21 |  TRACE  | sending GET file request
+07:51:21 |  TRACE  | Status code from response: OK
+07:51:21 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Renderer.pdb
+07:51:21 |  TRACE  | sending GET file request
+07:51:21 |  TRACE  | Status code from response: OK
+07:51:21 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Utility.dll
+07:51:21 |  TRACE  | sending GET file request
+07:51:21 |  TRACE  | Status code from response: OK
+07:51:21 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Utility.dll.config
+07:51:21 |  TRACE  | sending GET file request
+07:51:21 |  TRACE  | Status code from response: OK
+07:51:21 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\ClassicUO.Utility.pdb
+07:51:21 |  TRACE  | sending GET file request
+07:51:21 |  TRACE  | Status code from response: OK
+07:51:21 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuoapi.dll
+07:51:21 |  TRACE  | sending GET file request
+07:51:22 |  TRACE  | Status code from response: OK
+07:51:22 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA.dll
+07:51:22 |  TRACE  | sending GET file request
+07:51:22 |  TRACE  | Status code from response: OK
+07:51:22 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA.dll.config
+07:51:22 |  TRACE  | sending GET file request
+07:51:22 |  TRACE  | Status code from response: OK
+07:51:22 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA.pdb
+07:51:22 |  TRACE  | sending GET file request
+07:51:22 |  TRACE  | Status code from response: OK
+07:51:22 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\lib64/libFAudio.so.0
+07:51:22 |  TRACE  | sending GET file request
+07:51:22 |  TRACE  | Status code from response: OK
+07:51:23 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\lib64/libFNA3D.so.0
+07:51:23 |  TRACE  | sending GET file request
+07:51:23 |  TRACE  | Status code from response: OK
+07:51:23 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\lib64/libSDL2-2.0.so.0
+07:51:23 |  TRACE  | sending GET file request
+07:51:23 |  TRACE  | Status code from response: OK
+07:51:23 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\lib64/libtheorafile.so
+07:51:23 |  TRACE  | sending GET file request
+07:51:24 |  TRACE  | Status code from response: OK
+07:51:24 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\Microsoft.Bcl.AsyncInterfaces.dll
+07:51:24 |  TRACE  | sending GET file request
+07:51:24 |  TRACE  | Status code from response: OK
+07:51:24 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\Microsoft.CSharp.dll
+07:51:24 |  TRACE  | sending GET file request
+07:51:24 |  TRACE  | Status code from response: OK
+07:51:24 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\Mono.Posix.dll
+07:51:24 |  TRACE  | sending GET file request
+07:51:25 |  TRACE  | Status code from response: OK
+07:51:25 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\Mono.Security.dll
+07:51:25 |  TRACE  | sending GET file request
+07:51:25 |  TRACE  | Status code from response: OK
+07:51:25 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\monoconfig
+07:51:25 |  TRACE  | sending GET file request
+07:51:25 |  TRACE  | Status code from response: OK
+07:51:25 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\monomachineconfig
+07:51:25 |  TRACE  | sending GET file request
+07:51:25 |  TRACE  | Status code from response: NotFound
+07:51:25 |  TRACE  | error on file monomachineconfig
+07:51:25 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\MP3Sharp.dll
+07:51:25 |  TRACE  | sending GET file request
+07:51:25 |  TRACE  | Status code from response: OK
+07:51:25 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\MP3Sharp.pdb
+07:51:25 |  TRACE  | sending GET file request
+07:51:26 |  TRACE  | Status code from response: OK
+07:51:26 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\mscorlib.dll
+07:51:26 |  TRACE  | sending GET file request
+07:51:26 |  TRACE  | Status code from response: OK
+07:51:27 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\osx/libFAudio.0.dylib
+07:51:27 |  TRACE  | sending GET file request
+07:51:27 |  TRACE  | Status code from response: OK
+07:51:27 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\osx/libFNA3D.0.dylib
+07:51:27 |  TRACE  | sending GET file request
+07:51:27 |  TRACE  | Status code from response: OK
+07:51:27 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\osx/libMoltenVK.dylib
+07:51:27 |  TRACE  | sending GET file request
+07:51:28 |  TRACE  | Status code from response: OK
+07:51:29 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\osx/libSDL2-2.0.0.dylib
+07:51:29 |  TRACE  | sending GET file request
+07:51:29 |  TRACE  | Status code from response: OK
+07:51:29 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\osx/libtheorafile.dylib
+07:51:29 |  TRACE  | sending GET file request
+07:51:29 |  TRACE  | Status code from response: OK
+07:51:29 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\osx/libvulkan.1.dylib
+07:51:29 |  TRACE  | sending GET file request
+07:51:30 |  TRACE  | Status code from response: OK
+07:51:30 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Buffers.dll
+07:51:30 |  TRACE  | sending GET file request
+07:51:30 |  TRACE  | Status code from response: OK
+07:51:30 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Configuration.dll
+07:51:30 |  TRACE  | sending GET file request
+07:51:30 |  TRACE  | Status code from response: OK
+07:51:30 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Core.dll
+07:51:30 |  TRACE  | sending GET file request
+07:51:30 |  TRACE  | Status code from response: OK
+07:51:30 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Data.dll
+07:51:30 |  TRACE  | sending GET file request
+07:51:31 |  TRACE  | Status code from response: OK
+07:51:31 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.dll
+07:51:31 |  TRACE  | sending GET file request
+07:51:31 |  TRACE  | Status code from response: OK
+07:51:32 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Drawing.dll
+07:51:32 |  TRACE  | sending GET file request
+07:51:32 |  TRACE  | Status code from response: OK
+07:51:32 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.IO.Compression.dll
+07:51:32 |  TRACE  | sending GET file request
+07:51:32 |  TRACE  | Status code from response: OK
+07:51:32 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.IO.Compression.FileSystem.dll
+07:51:32 |  TRACE  | sending GET file request
+07:51:32 |  TRACE  | Status code from response: OK
+07:51:32 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Memory.dll
+07:51:32 |  TRACE  | sending GET file request
+07:51:32 |  TRACE  | Status code from response: OK
+07:51:32 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Numerics.dll
+07:51:32 |  TRACE  | sending GET file request
+07:51:32 |  TRACE  | Status code from response: OK
+07:51:32 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Numerics.Vectors.dll
+07:51:32 |  TRACE  | sending GET file request
+07:51:33 |  TRACE  | Status code from response: OK
+07:51:33 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Runtime.CompilerServices.Unsafe.dll
+07:51:33 |  TRACE  | sending GET file request
+07:51:33 |  TRACE  | Status code from response: OK
+07:51:33 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Runtime.Serialization.dll
+07:51:33 |  TRACE  | sending GET file request
+07:51:33 |  TRACE  | Status code from response: OK
+07:51:33 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Security.dll
+07:51:33 |  TRACE  | sending GET file request
+07:51:33 |  TRACE  | Status code from response: OK
+07:51:33 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Text.Encodings.Web.dll
+07:51:33 |  TRACE  | sending GET file request
+07:51:33 |  TRACE  | Status code from response: OK
+07:51:33 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Text.Json.dll
+07:51:33 |  TRACE  | sending GET file request
+07:51:34 |  TRACE  | Status code from response: OK
+07:51:34 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Threading.Tasks.Extensions.dll
+07:51:34 |  TRACE  | sending GET file request
+07:51:34 |  TRACE  | Status code from response: OK
+07:51:34 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.ValueTuple.dll
+07:51:34 |  TRACE  | sending GET file request
+07:51:34 |  TRACE  | Status code from response: OK
+07:51:34 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Windows.Forms.dll
+07:51:34 |  TRACE  | sending GET file request
+07:51:35 |  TRACE  | Status code from response: OK
+07:51:35 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Xml.dll
+07:51:35 |  TRACE  | sending GET file request
+07:51:35 |  TRACE  | Status code from response: OK
+07:51:35 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\System.Xml.Linq.dll
+07:51:35 |  TRACE  | sending GET file request
+07:51:36 |  TRACE  | Status code from response: OK
+07:51:36 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\vulkan/icd.d/MoltenVK_icd.json
+07:51:36 |  TRACE  | sending GET file request
+07:51:36 |  TRACE  | Status code from response: OK
+07:51:36 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/FAudio.dll
+07:51:36 |  TRACE  | sending GET file request
+07:51:36 |  TRACE  | Status code from response: OK
+07:51:36 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/FNA3D.dll
+07:51:36 |  TRACE  | sending GET file request
+07:51:36 |  TRACE  | Status code from response: OK
+07:51:37 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/libtheorafile.dll
+07:51:37 |  TRACE  | sending GET file request
+07:51:37 |  TRACE  | Status code from response: OK
+07:51:37 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/SDL2.dll
+07:51:37 |  TRACE  | sending GET file request
+07:51:37 |  TRACE  | Status code from response: OK
+07:51:37 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/vcruntime140.dll
+07:51:37 |  TRACE  | sending GET file request
+07:51:37 |  TRACE  | Status code from response: OK
+07:51:37 |  TRACE  | getting file and storing it to --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\x64/zlib.dll
+07:51:37 |  TRACE  | sending GET file request
+07:51:37 |  TRACE  | Status code from response: OK
+07:51:37 |  TRACE  | update done
+07:53:51 |  TRACE  | saving settings in: C:\Users\Devin\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+07:53:51 |  TRACE  | done
+07:53:56 |  TRACE  | CUO path is empty! Use current folder: C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO
+07:53:56 |  TRACE  | Launching the game!
+07:53:56 |  TRACE  | cuo path: 'C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO'
+07:53:56 |  TRACE  | args: -uopath "C:\Ultima-Adventures\Client\Data Files" -username "admin" -ip "74.91.120.104" -port "2593" -clientversion "7.0.15.1" -lastcharname "" -last_server_name "" -saveaccount "False" -autologin "False" -reconnect "False" -reconnect_time "1000" -music "False" -music_volume "50" -profiler "False" -use_verdata "False" -encryption "0" -force_driver "0" -plugins "" -shard_type "0" -skipupdate ""  
+07:54:58 |  TRACE  | CUO path is empty! Use current folder: C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO
+07:54:58 |  TRACE  | Launching the game!
+07:54:58 |  TRACE  | cuo path: 'C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO'
+07:54:58 |  TRACE  | args: -uopath "C:\Ultima-Adventures\Client\Data Files" -username "admin" -ip "74.91.120.104" -port "2593" -clientversion "7.0.15.1" -lastcharname "" -last_server_name "" -saveaccount "False" -autologin "False" -reconnect "False" -reconnect_time "1000" -music "False" -music_volume "50" -profiler "False" -use_verdata "False" -encryption "0" -force_driver "0" -plugins "" -shard_type "0" -skipupdate ""  
+07:55:50 |  TRACE  | CUO path is empty! Use current folder: C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO
+07:55:50 |  TRACE  | Launching the game!
+07:55:50 |  TRACE  | cuo path: 'C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO'
+07:55:50 |  TRACE  | args: -uopath "C:\Ultima-Adventures\Client\Data Files" -username "admin" -ip "74.91.120.104" -port "2593" -clientversion "7.0.15.1" -lastcharname "" -last_server_name "" -saveaccount "False" -autologin "False" -reconnect "False" -reconnect_time "1000" -music "False" -music_volume "50" -profiler "False" -use_verdata "False" -encryption "0" -force_driver "0" -plugins "" -shard_type "0" -skipupdate ""  
+07:56:11 |  TRACE  | downloading manifest...
+07:56:11 |  TRACE  | check launcher patch available
+07:56:11 |  TRACE  | downloading manifest...
+07:56:12 |  TRACE  | loading manifest xml
+07:56:12 |  TRACE  | manifest loaded
+07:56:12 |  TRACE  | check if update is needed
+07:56:12 |  TRACE  | diff hash for file: ClassicUO.Assets.pdb
+07:56:12 |  TRACE  | loading manifest xml
+07:56:12 |  TRACE  | manifest loaded
+07:56:12 |  TRACE  | check launcher path: C:\Ultima-Adventures\Client\ClassicUO Launcher
+07:56:12 |  TRACE  | check if update is needed
+07:56:12 |  TRACE  | diff hash for file: ClassicUO.exe
+07:56:12 |  TRACE  | diff hash for file: ClassicUO.exe.config
+07:56:12 |  TRACE  | diff hash for file: ClassicUO.IO.pdb
+07:56:12 |  TRACE  | diff hash for file: ClassicUO.pdb
+07:56:12 |  TRACE  | diff hash for file: ClassicUO.Renderer.pdb
+07:56:12 |  TRACE  | diff hash for file: ClassicUO.Utility.pdb
+07:56:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.dll
+07:56:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.pdb
+07:56:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FAudio.dll
+07:56:12 |  TRACE  | diff hash for file: FNA.dll.config
+07:56:12 |  TRACE  | diff hash for file: FNA.pdb
+07:56:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA3D.dll
+07:56:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\libtheorafile.dll
+07:56:12 |  TRACE  | diff hash for file: MP3Sharp.pdb
+07:56:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL2.dll
+07:56:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\zlib.dll
+07:56:12 |  TRACE  | update needed
+07:56:12 |  TRACE  | no update needed
+08:01:11 |  TRACE  | downloading manifest...
+08:01:11 |  TRACE  | check launcher patch available
+08:01:11 |  TRACE  | downloading manifest...
+08:01:12 |  TRACE  | loading manifest xml
+08:01:12 |  TRACE  | manifest loaded
+08:01:12 |  TRACE  | check if update is needed
+08:01:12 |  TRACE  | diff hash for file: ClassicUO.Assets.pdb
+08:01:12 |  TRACE  | loading manifest xml
+08:01:12 |  TRACE  | manifest loaded
+08:01:12 |  TRACE  | check launcher path: C:\Ultima-Adventures\Client\ClassicUO Launcher
+08:01:12 |  TRACE  | check if update is needed
+08:01:12 |  TRACE  | diff hash for file: ClassicUO.exe
+08:01:12 |  TRACE  | diff hash for file: ClassicUO.exe.config
+08:01:12 |  TRACE  | diff hash for file: ClassicUO.IO.pdb
+08:01:12 |  TRACE  | diff hash for file: ClassicUO.pdb
+08:01:12 |  TRACE  | diff hash for file: ClassicUO.Renderer.pdb
+08:01:12 |  TRACE  | diff hash for file: ClassicUO.Utility.pdb
+08:01:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.dll
+08:01:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.pdb
+08:01:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FAudio.dll
+08:01:12 |  TRACE  | diff hash for file: FNA.dll.config
+08:01:12 |  TRACE  | diff hash for file: FNA.pdb
+08:01:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA3D.dll
+08:01:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\libtheorafile.dll
+08:01:12 |  TRACE  | diff hash for file: MP3Sharp.pdb
+08:01:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL2.dll
+08:01:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\zlib.dll
+08:01:12 |  TRACE  | update needed
+08:01:12 |  TRACE  | no update needed
+08:06:11 |  TRACE  | downloading manifest...
+08:06:11 |  TRACE  | check launcher patch available
+08:06:11 |  TRACE  | downloading manifest...
+08:06:12 |  TRACE  | loading manifest xml
+08:06:12 |  TRACE  | manifest loaded
+08:06:12 |  TRACE  | check if update is needed
+08:06:12 |  TRACE  | diff hash for file: ClassicUO.Assets.pdb
+08:06:12 |  TRACE  | diff hash for file: ClassicUO.exe
+08:06:12 |  TRACE  | diff hash for file: ClassicUO.exe.config
+08:06:12 |  TRACE  | diff hash for file: ClassicUO.IO.pdb
+08:06:12 |  TRACE  | diff hash for file: ClassicUO.pdb
+08:06:12 |  TRACE  | diff hash for file: ClassicUO.Renderer.pdb
+08:06:12 |  TRACE  | diff hash for file: ClassicUO.Utility.pdb
+08:06:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.dll
+08:06:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.pdb
+08:06:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FAudio.dll
+08:06:12 |  TRACE  | diff hash for file: FNA.dll.config
+08:06:12 |  TRACE  | loading manifest xml
+08:06:12 |  TRACE  | manifest loaded
+08:06:12 |  TRACE  | check launcher path: C:\Ultima-Adventures\Client\ClassicUO Launcher
+08:06:12 |  TRACE  | check if update is needed
+08:06:12 |  TRACE  | diff hash for file: FNA.pdb
+08:06:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA3D.dll
+08:06:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\libtheorafile.dll
+08:06:12 |  TRACE  | diff hash for file: MP3Sharp.pdb
+08:06:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL2.dll
+08:06:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\zlib.dll
+08:06:12 |  TRACE  | update needed
+08:06:12 |  TRACE  | no update needed
+08:11:11 |  TRACE  | downloading manifest...
+08:11:11 |  TRACE  | check launcher patch available
+08:11:11 |  TRACE  | downloading manifest...
+08:11:12 |  TRACE  | loading manifest xml
+08:11:12 |  TRACE  | manifest loaded
+08:11:12 |  TRACE  | check if update is needed
+08:11:12 |  TRACE  | diff hash for file: ClassicUO.Assets.pdb
+08:11:12 |  TRACE  | diff hash for file: ClassicUO.exe
+08:11:12 |  TRACE  | diff hash for file: ClassicUO.exe.config
+08:11:12 |  TRACE  | diff hash for file: ClassicUO.IO.pdb
+08:11:12 |  TRACE  | diff hash for file: ClassicUO.pdb
+08:11:12 |  TRACE  | diff hash for file: ClassicUO.Renderer.pdb
+08:11:12 |  TRACE  | diff hash for file: ClassicUO.Utility.pdb
+08:11:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.dll
+08:11:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\cuo.pdb
+08:11:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FAudio.dll
+08:11:12 |  TRACE  | diff hash for file: FNA.dll.config
+08:11:12 |  TRACE  | diff hash for file: FNA.pdb
+08:11:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\FNA3D.dll
+08:11:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\libtheorafile.dll
+08:11:12 |  TRACE  | diff hash for file: MP3Sharp.pdb
+08:11:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\SDL2.dll
+08:11:12 |  TRACE  | file does not exists --> C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUO\zlib.dll
+08:11:12 |  TRACE  | update needed
+08:11:12 |  TRACE  | loading manifest xml
+08:11:12 |  TRACE  | manifest loaded
+08:11:12 |  TRACE  | check launcher path: C:\Ultima-Adventures\Client\ClassicUO Launcher
+08:11:12 |  TRACE  | check if update is needed
+08:11:12 |  TRACE  | no update needed
+08:15:26 |  TRACE  | saving settings in: C:\Users\Devin\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+08:15:26 |  TRACE  | done
+08:15:26 |  TRACE  | saving settings in: C:\Users\Devin\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml
+08:15:26 |  TRACE  | done
+08:15:26 |  TRACE  | closing...

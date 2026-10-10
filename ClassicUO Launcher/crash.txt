@@ -1,0 +1,15 @@
+Datetime: 08/31/2024 08:30:29
+Environment PATH: C:\Ultima-Adventures\Client\ClassicUO Launcher
+.NET Environment PATH: C:\Ultima-Adventures\Client\ClassicUO Launcher
+args: C:\Ultima-Adventures\Client\ClassicUO Launcher\ClassicUOLauncher.exe
+
+System.IO.IOException: The process cannot access the file 'C:\Users\Devin\AppData\Roaming\ClassicUOLauncher\launcher_settings.xml' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions) + 0x151
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1) + 0x44
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1) + 0x50
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1) + 0x6c
+   at System.IO.FileStream..ctor(String, FileMode, FileAccess, FileShare, Int32, FileOptions, Int64) + 0x8a
+   at ClassicUOLauncher.SettingsManager.Save(ProfileManager) + 0x13b
+   at ClassicUOLauncher.Engine.OnExiting(Object, EventArgs) + 0x1e
+   at Microsoft.Xna.Framework.Game.Run() + 0x9e
+   at ClassicUOLauncher.Program.Main(String[] args) + 0x1cc5
